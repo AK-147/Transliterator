@@ -36,7 +36,7 @@
     </li>
   </ul>
 
-  <h2>:grey_question: Installation Guide</h2>
+  <h2>:arrow_down: Installation</h2>
   <p>
     To use the text-based version via the command terminal, switch to the correct directory and run either <strong>All_In_One.java</strong> or <strong>Core.java</strong> through the designated command, for which there are plenty of guides online.
     If you have an accredited Java IDE such as Eclipse or IntelliJ, you can simply open or copy and paste the files and run the program there instead.

@@ -38,12 +38,14 @@
 
   <h2>:arrow_down: Installation</h2>
   <p>
-    To use the text-based version via the command terminal, switch to the correct directory and run either <strong>All_In_One.java</strong> or <strong>Core.java</strong> through the designated command, for which there are plenty of guides online.
-    If you have an accredited Java IDE such as Eclipse or IntelliJ, you can simply open or copy and paste the files and run the program there instead.
+    To use the text-based version via the command terminal, switch to the correct directory and run either <strong>All_In_One.java</strong>
+    or <strong>Core.java</strong> through the designated command, for which there are plenty of guides online. If you have an accredited
+    Java IDE such as Eclipse or IntelliJ, you can simply open or copy and paste the files and run the program there instead.
   </p>
   <p>
     For using the graphical interface, it is best to run <strong>AppTransliterator.java</strong> as the driver class through a Java IDE.
-    This program was created in Eclipse, heavily utilizing the Java Swing library along with others. So to get optimal results, it would be best to recreate the project in a similar environment which fulfills the necessary requirements for the program to run.
+    This program was created in Eclipse, heavily utilizing the Java Swing library along with others. So to get optimal results,
+    it would be best to recreate the project in a similar environment which fulfills the necessary requirements for the program to run.
   </p>
   <h2></h2>
   <h3>Enjoy - استمتع</h3>

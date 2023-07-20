@@ -10,12 +10,12 @@
   <ul>
     <li>:capital_abcd: A program that converts English characters to their phonetic counterparts in the Arabic grapheme system</li>
     <li>:coffee: Has a text-based user interface for use in command line and a graphical user interface made with Java Swing</li>
-    <li>:scroll: Created as a project whilst studying the Arabic language, testing my knowledge of the syntax and morphology</li>
+    <li>:scroll: Created whilst studying the Arabic language, greatly testing my knowledge of the syntax and morphology</li>
   </ul>
 
   <h2>:file_folder: Contents</h2>
   <p>
-    Navigating to the <strong>src</strong> folder, we can ignore the <strong>bin</strong> files.
+    Navigating to the <strong>src</strong> folder, we can ignore all the files contained within the <strong>bin</strong> folder.
     There are two main project folders, each with its own nested files:
   </p>
   <ul>

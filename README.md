@@ -38,9 +38,9 @@
 
   <h2>:arrow_down: Installation</h2>
   <p>
-    To use the text-based version via the command terminal, switch to the correct directory and run either <strong>All_In_One.java</strong>
-    or <strong>Core.java</strong> through the designated command, for which there are plenty of guides online. If you have an accredited
-    Java IDE such as Eclipse or IntelliJ, you can simply open or copy and paste the files and run the program there instead.
+    To use the text-based version via the command terminal, switch to the correct directory and run either <strong>All_In_One.class</strong>
+    or <strong>Core.class</strong> from the <strong>bin</strong> folder through the designated command, for which there are plenty of guides online.
+    If you have an accredited Java IDE such as Eclipse or IntelliJ, you can simply open or copy and paste the files and run the program there instead.
   </p>
   <p>
     For using the graphical interface, it is best to run <strong>AppTransliterator.java</strong> as the driver class through a Java IDE.
